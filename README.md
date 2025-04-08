@@ -36,3 +36,20 @@ Além disso, o projeto reforça boas práticas como **organização de código l
 
 ```bash
 git clone https://github.com/seu-usuario/react-counter.git
+
+---
+
+🛠️ Tecnologias utilizadas
+⚛️ React.js
+
+🟨 JavaScript (ES6+)
+
+🧱 HTML5 + 🎨 CSS3
+
+⚡ Vite ou Create React App (dependendo do setup)
+
+---
+
+📌 Observações
+Mesmo sendo um projeto simples, ele serve como base para aplicações mais robustas, com múltiplos estados e interações.
+Ideal para iniciantes que estão começando no ecossistema React!
