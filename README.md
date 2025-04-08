@@ -39,17 +39,18 @@ git clone https://github.com/seu-usuario/react-counter.git
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-### ⚛️ React.js
+🛠️ Tecnologias utilizadas
+⚛️ React.js
 
-### 🟨 JavaScript (ES6+)
+🟨 JavaScript (ES6+)
 
-### 🧱 HTML5 + 🎨 CSS3
+🧱 HTML5 + 🎨 CSS3
 
-### ⚡ Vite
+⚡ Vite
 
 ---
 
-## 📌 Observações
+📌 Observações
 Mesmo sendo um projeto simples, ele serve como base para aplicações mais robustas, com múltiplos estados e interações.
 Ideal para iniciantes que estão começando no ecossistema React!
+```
