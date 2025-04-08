@@ -67,7 +67,7 @@ Ideal para iniciantes que estão começando no ecossistema React!
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonado por desenvolvimento web  
 🚀 Em constante evolução  
-🔗 [github.com/fabio-studies](https://github.com/fabio-studies)
+🔗 [github.com/faber-studies](https://github.com/faber-studies)
 
 > ⚠️ Este projeto foi desenvolvido com base em um tutorial no YouTube, com o objetivo de **praticar conceitos do React** e **reforçar o aprendizado**. Todo o código foi refeito manualmente para fins educacionais.
 
