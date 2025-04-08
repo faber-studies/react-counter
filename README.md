@@ -65,7 +65,7 @@ Ideal para iniciantes que estão começando no ecossistema React!
 
 **Fábio**  
 🎓 Estudante de Engenharia de Software  
-💻 Apaixonado por desenvolvimento web  
+💻 Foco em desenvolvimento full stack, IA, e automação com Python  
 🚀 Em constante evolução  
 🔗 [github.com/faber-studies](https://github.com/faber-studies)
 
