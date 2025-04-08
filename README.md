@@ -32,19 +32,44 @@ Além disso, o projeto reforça boas práticas como **organização de código l
 
 ## 🚀 Como executar o projeto
 
-### 1. Clone o repositório:
-
 ```bash
+# 1. Clone o repositório
 git clone https://github.com/seu-usuario/react-counter.git
+
+# 2. Instale as dependências
+npm install
+
+# 3. Inicie o projeto
+npm start
 
 ---
 
-🛠️ Tecnologias utilizadas:
+## 🛠️ Tecnologias utilizadas
 
- ⚛️ React.js
- 🟨 JavaScript (ES6+)
- 🧱 HTML5 + 🎨 CSS3
- ⚡ Vite
+- ⚛️ **React.js**  
+- 🟨 **JavaScript (ES6+)**  
+- 🧱 **HTML5** + 🎨 **CSS3**  
+- ⚡ **Vite**
+
+---
+
+## 📌 Observações
+
+Mesmo sendo um projeto simples, ele serve como base para aplicações mais robustas, com múltiplos estados e interações.  
+Ideal para iniciantes que estão começando no ecossistema React!
+
+---
+
+## 🙋‍♂️ Autor
+
+**Fábio**  
+🎓 Estudante de Engenharia de Software  
+💻 Apaixonado por desenvolvimento web  
+🚀 Em constante evolução  
+🔗 [github.com/fabio-studies](https://github.com/fabio-studies)
+
+> ⚠️ Este projeto foi desenvolvido com base em um tutorial no YouTube, com o objetivo de **praticar conceitos do React** e **reforçar o aprendizado**. Todo o código foi refeito manualmente para fins educacionais.
+
 
 ---
 
