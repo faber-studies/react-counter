@@ -74,14 +74,8 @@ Ideal para iniciantes que estão começando no ecossistema React!
 🎓 Estudante de Engenharia de Software  
 💻 Foco em desenvolvimento full stack, IA, e automação com Python  
 🚀 Em constante evolução  
-🔗 [GitHub](https://github.com/faber-studies) | [Instagram](https://instagram.com/fabio.estudos)
+🔗 [GitHub](https://github.com/faber-studies) | 📸 [Instagram](https://instagram.com/fabio.estudos)
 
 > ⚠️ Este projeto foi desenvolvido com base em um tutorial no YouTube, com o objetivo de **praticar conceitos do React** e **reforçar o aprendizado**. Todo o código foi refeito manualmente para fins educacionais.
 
-
----
-
-📌 Observações
-Mesmo sendo um projeto simples, ele serve como base para aplicações mais robustas, com múltiplos estados e interações.
-Ideal para iniciantes que estão começando no ecossistema React!
 ```
