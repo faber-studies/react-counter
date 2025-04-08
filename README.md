@@ -26,8 +26,7 @@ Além disso, o projeto reforça boas práticas como **organização de código l
 
 ## 📷 Prévia
 
-*Insira aqui um print ou um GIF mostrando o contador em ação!*  
-(Dica: você pode usar [LICEcap](https://www.cockos.com/licecap/) pra gravar um gif simples.)
+![Contador em ação](./assets/counter-demo.gif)
 
 ---
 
