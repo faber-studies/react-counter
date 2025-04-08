@@ -26,7 +26,7 @@ Além disso, o projeto reforça boas práticas como **organização de código l
 
 ## 📷 Prévia
 
-![Contador em ação](./assets/counter-demo.gif)
+![Contador em ação](./src/assets/counter-demo.gif)
 
 ---
 
