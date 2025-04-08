@@ -30,6 +30,13 @@ Além disso, o projeto reforça boas práticas como **organização de código l
 
 ---
 
+## 🌐 Demonstração online
+
+Acesse o projeto em produção aqui:  
+🔗 [https://react-counter-silk.vercel.app/](https://react-counter-silk.vercel.app/)
+
+---
+
 ## 🚀 Como executar o projeto
 
 ```bash
