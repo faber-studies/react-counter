@@ -39,14 +39,12 @@ git clone https://github.com/seu-usuario/react-counter.git
 
 ---
 
-🛠️ Tecnologias utilizadas
-⚛️ React.js
+🛠️ Tecnologias utilizadas:
 
-🟨 JavaScript (ES6+)
-
-🧱 HTML5 + 🎨 CSS3
-
-⚡ Vite
+ ⚛️ React.js
+ 🟨 JavaScript (ES6+)
+ 🧱 HTML5 + 🎨 CSS3
+ ⚡ Vite
 
 ---
 
