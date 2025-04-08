@@ -18,6 +18,8 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s;
+    transition: width 0.3s;
 }
 
 .counter-button:hover{
@@ -25,18 +27,27 @@
 }
 
 
+/* Responsividade: botões menores + ícones para mobile */
 @media (max-width: 500px) {
-    .count-display {
-        font-size: 5em;
-    }
-
     .counter-button {
-        width: 100%;
-        max-width: 250px;
+      width: 80px;
+      height: 40px;
+      font-size: 1em;
     }
-
-    .button-group {
-        flex-direction: column;
-        align-items: center;
+  
+    .counter-button.decrease::before {
+      content: "-";
     }
-}
+  
+    .counter-button.reset::before {
+      content: "⟳";
+    }
+  
+    .counter-button.increase::before {
+      content: "+";
+    }
+  
+    .counter-button span {
+      display: none;
+    }
+  }
